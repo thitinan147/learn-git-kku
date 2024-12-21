@@ -7,7 +7,7 @@ hello git Pooh
 3. frank
 
 1. learn git
-
+ming
 Bigboss
 Kritsada Mahanam 653040438-6
 
