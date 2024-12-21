@@ -1,6 +1,6 @@
-## name ##
+## Pooh ##
 
-hello git
+hello git Pooh
 
 1. tekni
 2. dewna
@@ -9,3 +9,4 @@ hello git
 1. learn git
 
 Bigboss
+Kritsada Mahanam 653040438-6
