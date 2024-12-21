@@ -8,8 +8,13 @@ hello git Pooh
 
 1. learn git
 
+<<<<<<< Updated upstream
 Bigboss
 Kritsada Mahanam 653040438-6
 
 
 edit 001
+=======
+
+jahhahahahah
+>>>>>>> Stashed changes
