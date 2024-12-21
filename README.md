@@ -1,6 +1,6 @@
-## name ##
+## Pooh ##
 
-hello git
+hello git Pooh
 
 1. tekni
 2. dewna
