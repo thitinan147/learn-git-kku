@@ -1,7 +1,3 @@
-# learn_git
+#name
 
 hello git
-
-test git diff
-
-test git pull
